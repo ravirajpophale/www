@@ -1,0 +1,41 @@
+{
+	"links": [{
+		"name": "Rank 1",
+		"url": "snowa.json",
+		"pics": 60
+	}, {
+		"name": "Rank 2",
+		"url": "raamsay.json",
+		"pics": 60
+	}
+	,{
+		"name": "Rank 3",
+		"url": "tyraion.json",
+		"pics": 45
+	}, {
+		"name": "Rank 4",
+		"url": "braan.json",
+		"pics": 40
+	}, {
+		"name": "Rank 5",
+		"url": "peatyr.json",
+		"pics": 45
+	}, {
+		"name": "Rank 6",
+		"url": "daaario.json",
+		"pics": 40
+	}, {
+		"name": "Rank 7",
+		"url": "jaimae.json",
+		"pics": 50
+	}, {
+		"name": "Rank 8",
+		"url": "joarah.json",
+		"pics": 40
+	}, {
+		"name": "Rank 9",
+		"url": "saelmy.json",
+		"pics": 30
+	}
+	]
+}

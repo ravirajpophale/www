@@ -1,0 +1,11 @@
+{
+	"down" : 0,
+	"downText" : "Sorry for inconvenience! App server under maintenance. We'll be back soon.",
+	"datac" : 61,
+	"appc" : 19,
+	"textsize" : 15,
+	"title" : "Riddle Me This ! - Game",
+	"adlink" : "https://goo.gl/KPYbJ4",
+	"adimage" : "https://3.bp.blogspot.com/-7BsGXXr_41s/WdR_BsPyKjI/AAAAAAAAcvk/A_M70YIy2vsj7IaoyQj763fRxesFBycqQCLcBGAs/s1600/icon.png",
+	"changelog" : " - NEW User Interface\n - ADDED 'Favorites' Option\n - App is now FASTER\n - Uses LESS MEMORY\n - Uses LESS INTERNET\n - Added a new server\n - Fixed minor bugs"
+}

@@ -1,0 +1,391 @@
+{
+	"links": [{
+		"name": "#001 Bulbasaur",
+		"url": "bulbasaur.json",
+		"pics": 30
+	},{
+		"name": "#004 Charmander",
+		"url": "charmander.json",
+		"pics": 25
+	},{
+		"name": "#005 Charmeleon",
+		"url": "charmeleon.json",
+		"pics": 35
+	}, {
+		"name": "#006 Charizard",
+		"url": "charizard.json",
+		"pics": 37
+	},{
+		"name": "#006 Mega Charizard",
+		"url": "megacharizard.json",
+		"pics": 127
+	}, {
+		"name": "#007 Squirtle",
+		"url": "squirtle.json",
+		"pics": 29
+	},{
+		"name": "#009 Blastoise",
+		"url": "blastoise.json",
+		"pics": 30
+	}, {
+		"name": "#018 Pidgeot",
+		"url": "pidgeot.json",
+		"pics": 17
+	}, {
+		"name": "#025 Pikachu",
+		"url": "pikachu.json",
+		"pics": 31
+	},{
+		"name": "#026 Raichu",
+		"url": "raichu.json",
+		"pics": 56
+	},{
+		"name": "#028 Sandslash",
+		"url": "sandslash.json",
+		"pics": 20
+	}, {
+		"name": "#037 Vulpix",
+		"url": "vulpix.json",
+		"pics": 31
+	},{
+		"name": "#038 Ninetales",
+		"url": "ninetales.json",
+		"pics": 38
+	}, {
+		"name": "#039 Jigglypuff",
+		"url": "jigglypuff.json",
+		"pics": 50
+	},{
+		"name": "#042 Golbat",
+		"url": "golbat.json",
+		"pics": 20
+	},{
+		"name": "#054 Psyduck",
+		"url": "psyduck.json",
+		"pics": 26
+	},{
+		"name": "#058 Growlithe",
+		"url": "growlithe.json",
+		"pics": 13
+	},{
+		"name": "#059 Arcanine",
+		"url": "arcanine.json",
+		"pics": 29
+	}, {
+		"name": "#065 Alakazam",
+		"url": "alakazam.json",
+		"pics": 31
+	},{
+		"name": "#068 Machamp",
+		"url": "machamp.json",
+		"pics": 23
+	}, {
+		"name": "#078 Rapidash",
+		"url": "rapidash.json",
+		"pics": 31
+	}, {
+		"name": "#088 Grimer",
+		"url": "grimer.json",
+		"pics": 29
+	}, {
+		"name": "#092 Gastly",
+		"url": "gastly.json",
+		"pics": 30
+	},{
+		"name": "#093 Haunter",
+		"url": "haunter.json",
+		"pics": 32
+	},{
+		"name": "#094 Gengar",
+		"url": "gengar.json",
+		"pics": 30
+	},{
+		"name": "#095 Onix",
+		"url": "onix.json",
+		"pics": 16
+	},{
+		"name": "#104 Cubone",
+		"url": "cubone.json",
+		"pics": 25
+	},{
+		"name": "#106 Hitmonlee",
+		"url": "hitmonlee.json",
+		"pics": 23
+	},{
+		"name": "#109 Koffing",
+		"url": "koffing.json",
+		"pics": 24
+	},{
+		"name": "#115 Kangaskhan",
+		"url": "kangaskhan.json",
+		"pics": 16
+	},{
+		"name": "#122 Mr. Mine",
+		"url": "mrmine.json",
+		"pics": 28
+	},{
+		"name": "#123 Scyther",
+		"url": "scyther.json",
+		"pics": 33
+	}, {
+		"name": "#126 Magmar",
+		"url": "magmar.json",
+		"pics": 27
+	}, {
+		"name": "#129 Magikarp",
+		"url": "magikarp.json",
+		"pics": 30
+	}, {
+		"name": "#130 Gyarados",
+		"url": "gyarados.json",
+		"pics": 24
+	},{
+		"name": "#131 Lapras",
+		"url": "lapras.json",
+		"pics": 28
+	},{
+		"name": "#132 Ditto",
+		"url": "ditto.json",
+		"pics": 22
+	}, {
+		"name": "#133 Eevee",
+		"url": "eevee.json",
+		"pics": 28
+	}, {
+		"name": "#134 Vaporeon",
+		"url": "vaporeon.json",
+		"pics": 20
+	}, {
+		"name": "#135 Jolteon",
+		"url": "jolteon.json",
+		"pics": 33
+	}, {
+		"name": "#136 Flareon",
+		"url": "flareon.json",
+		"pics": 33
+	}, {
+		"name": "#137 Porygon",
+		"url": "porygon.json",
+		"pics": 42
+	},{
+		"name": "#138 Omanyte",
+		"url": "omanyte.json",
+		"pics": 19
+	},{
+		"name": "#143 Snorlax ",
+		"url": "snorlax.json",
+		"pics": 29
+	}, {
+		"name": "#144 Articuno",
+		"url": "articuno.json",
+		"pics": 21
+	}, {
+		"name": "#145 Zapdos",
+		"url": "zapdos.json",
+		"pics": 23
+	}, {
+		"name": "#146 Moltres",
+		"url": "moltres.json",
+		"pics": 25
+	},{
+		"name": "#147 Dratini",
+		"url": "dratini.json",
+		"pics": 20
+	},{
+		"name": "#148 Dragonair",
+		"url": "dragonair.json",
+		"pics": 33
+	},{
+		"name": "#149 Dragonite",
+		"url": "dragonite.json",
+		"pics": 29
+	}, {
+		"name": "#150 Mewtwo",
+		"url": "mewtwo.json",
+		"pics": 24
+	}, {
+		"name": "#151 Mew",
+		"url": "mew.json",
+		"pics": 20
+	},{
+		"name": "#152 Chikorita",
+		"url": "chikorita.json",
+		"pics": 20
+	},{
+		"name": "#154 Froakie",
+		"url": "froakie.json",
+		"pics": 34
+	},{
+		"name": "#154 Cyndaquil",
+		"url": "cyndaquil.json",
+		"pics": 40
+	}, {
+		"name": "#157 Typhlosion",
+		"url": "typhlosion.json",
+		"pics": 27
+	},{
+		"name": "#158 Totodile",
+		"url": "totodile.json",
+		"pics": 33
+	},{
+		"name": "#160 Feraligatr",
+		"url": "feraligatr.json",
+		"pics": 29
+	}, {
+		"name": "#172 Pichu",
+		"url": "pichu.json",
+		"pics": 30
+	},{
+		"name": "#196 Espeon",
+		"url": "espeon.json",
+		"pics": 36
+	}, {
+		"name": "#197 Umbreon",
+		"url": "umbreon.json",
+		"pics": 36
+	},{
+		"name": "#208 Steelix",
+		"url": "steelix.json",
+		"pics": 33
+	},{
+		"name": "#212 Scizor",
+		"url": "scizor.json",
+		"pics": 32
+	}, {
+		"name": "#229 Houndoom",
+		"url": "houndoom.json",
+		"pics": 22
+	},{
+		"name": "#243 Raikou",
+		"url": "raikou.json",
+		"pics": 33
+	}, {
+		"name": "#244 Entei",
+		"url": "entei.json",
+		"pics": 30
+	}, {
+		"name": "#245 Suicune",
+		"url": "suicune.json",
+		"pics": 30
+	},{
+		"name": "#248 Tyranitar",
+		"url": "tyranitar.json",
+		"pics": 29
+	}, {
+		"name": "#249 Lugia",
+		"url": "lugia.json",
+		"pics": 26
+	}, {
+		"name": "#250 Ho-Oh",
+		"url": "hooh.json",
+		"pics": 23
+	},{
+		"name": "#252 Treecko",
+		"url": "treecko.json",
+		"pics": 32
+	},{
+		"name": "#257 Blaziken",
+		"url": "blaziken.json",
+		"pics": 30
+	},{
+		"name": "#258 Mudkip",
+		"url": "mudkip.json",
+		"pics": 38
+	},{
+		"name": "#376 Metagross",
+		"url": "metagross.json",
+		"pics": 30
+	},{
+		"name": "#381 Latias and Latios",
+		"url": "latiasandlatios.json",
+		"pics": 29
+	},{
+		"name": "#383 Groudon ",
+		"url": "groudon.json",
+		"pics": 22
+	},{
+		"name": "#384 Rayquaza ",
+		"url": "rayquaza.json",
+		"pics": 30
+	},{
+		"name": "#385 Jirachi ",
+		"url": "jirachi.json",
+		"pics": 27
+	},{
+		"name": "#393 Piplup ",
+		"url": "piplup.json",
+		"pics": 29
+	},{
+		"name": "#448 Lucario",
+		"url": "lucario.json",
+		"pics": 33
+	},{
+		"name": "#468 Togekiss",
+		"url": "togekiss.json",
+		"pics": 43
+	}, {
+		"name": "#470 Leafeon",
+		"url": "leafeon.json",
+		"pics": 27
+	}, {
+		"name": "#471 Glaceon",
+		"url": "glaceon.json",
+		"pics": 31
+	}, {
+		"name": "#487 Giratina",
+		"url": "giratina.json",
+		"pics": 38
+	},{
+		"name": "#491 Darkrai",
+		"url": "darkrai.json",
+		"pics": 45
+	},{
+		"name": "#493 Arceus",
+		"url": "arceus.json",
+		"pics": 28
+	}, {
+		"name": "#494 Victini",
+		"url": "victini.json",
+		"pics": 33
+	},{
+		"name": "#571 Zoroark",
+		"url": "zoroark.json",
+		"pics": 50
+	},{
+		"name": "#631 Heatmor",
+		"url": "heatmor.json",
+		"pics": 21
+	},{
+		"name": "#644 Zekrom",
+		"url": "zekrom.json",
+		"pics": 38
+	},{
+		"name": "#648 Meloetta",
+		"url": "Meloetta.json",
+		"pics": 30
+	},{
+		"name": "#658 Greninja",
+		"url": "greninja.json",
+		"pics": 50
+	},{
+		"name": "#700 Sylveon",
+		"url": "sylveon.json",
+		"pics": 29
+	},{
+		"name": "#714 Noibat",
+		"url": "noibat.json",
+		"pics": 30
+	},{
+		"name": "#717 Yveltal",
+		"url": "yveltal.json",
+		"pics": 32
+	},{
+		"name": "#720 Hoopa",
+		"url": "hoopa.json",
+		"pics": 36
+	},{
+		"name": "# Stufful",
+		"url": "stufful.json",
+		"pics": 33
+	}  ]
+}

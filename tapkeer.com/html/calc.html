@@ -1,0 +1,178 @@
+
+<!-- 
+	Name - Sanved Tapkeer
+	Email - stapkee1@binghamton.edu
+	Session - 4:25 to 5:50 pm
+	B# - B00767167
+-->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			
+			*{
+				box-sizing: border-box;
+				margin: 0;
+			}
+			div.main{
+				width:225px;
+				border: 4px outset;
+				padding: 1px;
+			}
+			div.textdiv{
+				border: 3px inset;
+				padding: 2px;
+			}
+			div#mdiv{
+				border: 3px inset;
+				padding: 2px;
+			}
+			p{
+				padding-left: 2px;
+				border:2px inset;
+			}
+			button{
+				width: 40px;
+				height: 25px;
+				margin: 3px;
+				
+			}
+			input[type=text]{
+				width: 83%;
+			}
+			button#small{
+				width: 25px;
+			}
+			
+            #fset {
+                margin-top: 20px;
+            }
+			
+		</style>
+		<script>
+            var isDot = false;
+			var isFresh = true;
+            
+			function onOffSwitch(val) {
+                var buttons = document.getElementById('mdiv').children;
+            
+				if(val == true){ //turn on
+                    resetAll();
+                    for(i=2;i<=25;i++){ 
+                        buttons[i].disabled = false
+                    }
+					isFresh = true;
+                }else{ //turn off
+                    document.calculator.ans.value = "" 
+                    for(i=2;i<=25;i++){
+                        buttons[i].disabled = true
+                    }
+				}
+			}
+			function addNum(val) {
+				
+				if(document.calculator.ans.value == "0.0" && isFresh){
+					if(isDot){
+						document.calculator.ans.value = "0." + val;
+					}else{
+						document.calculator.ans.value = val;
+					}
+				}else if(document.calculator.ans.value == "0.0" && !isFresh){
+					
+					if(isDot){
+						document.calculator.ans.value += val;
+					}else{
+						document.calculator.ans.value = val;
+					}
+					
+				}else{
+					if(isDot){
+						document.calculator.ans.value += val;
+					}else{
+						document.calculator.ans.value += val;
+					}
+				}
+				
+				isFresh = false;
+			}
+			
+			function flipDot(val){
+				if(val){
+					isDot = true;
+					if(document.calculator.ans.value != "0.0"){
+						document.calculator.ans.value += ".";
+					}
+				}else{
+					isDot = false;
+				}
+			}
+			
+			function addMathStuff(stuff){
+				flipDot(0);
+				if(document.calculator.ans.value == "0.0"){
+					if(stuff == "("){
+						document.calculator.ans.value = stuff;
+					}
+				}else{
+					document.calculator.ans.value += stuff;
+				}
+			}
+			
+			function resetAll(){
+				flipDot(0);
+				document.calculator.ans.value = "0.0"
+				isFresh = true;
+			}
+			
+		</script>
+	</head>
+	<body>
+			
+	
+		<div class="main">
+			<form name="calculator">
+			<p>My Calculator</p>
+				
+				<div class="textdiv">
+					<input type="text" name="ans" value="">
+				</div>
+				<div id="mdiv"> <!--main div-->
+					<button type="button" onClick="onOffSwitch(true)">ON</button> <!--ON-->
+					<button type="button" onClick="onOffSwitch(false)">OFF</button><!--OFF-->
+					<button type="button" onClick="addNum(0)">0</button>
+					<button type="button" onClick="addNum(1)">1</button>
+					<br>
+					<button type="button" onClick="addNum(2)">2</button>
+					<button type="button" onClick="addNum(3)">3</button>
+					<button type="button" onClick="addNum(4)">4</button>
+					<button type="button" onClick="addNum(5)">5</button>
+					<br>
+					<button type="button" onClick="addNum(6)">6</button>
+					<button type="button" onClick="addNum(7)">7</button>
+					<button type="button" onClick="addNum(8)">8</button>
+					<button type="button" onClick="addNum(9)">9</button>
+					<br>
+					<button id="small" type="button" onClick="flipDot(1)">.</button>
+					<button id="small" type="button" onClick="addMathStuff('(')">(</button>
+					<button id="small" type="button" onClick="addMathStuff(')')">)</button>
+					<button type="button" onClick="addMathStuff('+')">+</button>
+					<button type="button" onClick="addMathStuff('-')">-</button>
+					<br>
+					<button type="button" onClick="addMathStuff('*')">*</button>
+					<button type="button" onClick="addMathStuff('/')">/</button>
+					<button type="button" onClick="document.calculator.ans.value=eval(document.calculator.ans.value)">=</button>
+					<button type="button" onClick="resetAll()">CLR</button>
+					<br>
+				
+				
+				</div> <!--main div-->
+			</form>
+			
+		</div>
+       
+        <script>
+			onOffSwitch(false);
+        </script>
+	</body>
+</html>			

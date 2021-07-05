@@ -1,0 +1,15 @@
+{
+	"links": [{
+		"name": "Computer Engineering",
+		"url": "comp.json",
+		"subjects": 12
+	}, {
+		"name": "Information Technology",
+		"url": "it.json",
+		"subjects": 9
+	}, {
+		"name": "Mechanical Engineering",
+		"url": "mech.json",
+		"subjects": 13
+	}]
+}

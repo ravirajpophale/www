@@ -1,0 +1,64 @@
+{
+	"links": [{
+			"name": "Misty",
+			"url": "misty.json",
+			"pics": 50
+	     },{
+			"name": "Trainer Sarena",
+			"url": "sarena.json",
+			"pics": 43
+	     },{
+			"name": "Cute Pokemons Wallpapers",
+			"url": "cute.json",
+			"pics": 184
+		},{
+			"name": "Light Wallpapers",
+			"url": "light.json",
+			"pics": 67
+		},{
+			"name": "Kanto Region",
+			"url": "kanto.json",
+			"pics": 152
+		},{
+			"name": "Johto Region",
+			"url": "johto.json",
+			"pics": 101
+		},{
+			"name": "Hoenn Region",
+			"url": "hoenn.json",
+			"pics": 144
+		},{
+			"name": "Sinnoh Region",
+			"url": "sinnoh.json",
+			"pics": 121
+		},{
+			"name": "First Gen PokeMinimal",
+			"url": "pokeminimal.json",
+			"pics": 81
+		},{
+			"name": "Second Gen PokeMinimal",
+			"url": "pokeminimalgen2.json",
+			"pics": 100
+		},{
+			"name": "Random Pokemon Art",
+			"url": "pokemon1.json",
+			"pics": 40
+		}, {
+			"name": "Pokeball Arts List 1",
+			"url": "pokeball1.json",
+			"pics": 73
+		}, {
+			"name": "Poke Fusions List 1",
+			"url": "pokefusion1.json",
+			"pics": 37
+		}, {
+			"name": "Pokeball Arts List 2",
+			"url": "pokeball.json",
+			"pics": 71
+		}, {
+			"name": "Poke Fusions List 2",
+			"url": "pokefusion.json",
+			"pics": 30
+		}
+	]
+}

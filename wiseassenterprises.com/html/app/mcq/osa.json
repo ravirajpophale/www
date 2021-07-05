@@ -1,0 +1,1503 @@
+{
+	"mcqs": [{
+		"num": 1,
+		"ques": "Dual mode operating system of the computer system has operations of",
+		"op1": "1mode",
+		"op2": "2modes",
+		"op3": "3modes",
+		"op4": "4modes",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 2,
+		"ques": "Multi processor system that computer system have are also called",
+		"op1": "parallel; systems ",
+		"op2": " tightly coupled system ",
+		"op3": "loosely coupled system ",
+		"op4": "both a and b",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 3,
+		"ques": "Memory tables are used to keep the track of ",
+		"op1": "Real and Virtual Memory",
+		"op2": "I/O Devices",
+		"op3": "Resources ",
+		"op4": "I/O Modules+J77 ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 4,
+		"ques": "Logical extension of multiprogramming of the operating system is ",
+		"op1": "time sharing ",
+		"op2": "multi tasking ",
+		"op3": "single programming",
+		"op4": "both a and b ",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 5,
+		"ques": "Which of the following is crucial time while accessing data on the disk?",
+		"op1": "Seek time",
+		"op2": "Rotational time",
+		"op3": "Transmission time ",
+		"op4": "Waiting time ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 6,
+		"ques": " Unix Operating System is an __________.",
+		"op1": "Time Sharing Operating System",
+		"op2": "Multi-User Operating System ",
+		"op3": "Multi-tasking Operating System",
+		"op4": "All the Above",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 7,
+		"ques": "Which of the following memory allocation scheme suffers from External fragmentation ? ",
+		"op1": "Segmentation ",
+		"op2": "Pure demand paging",
+		"op3": "Swapping",
+		"op4": "Paging",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 8,
+		"ques": "Information about a process is maintained in a _________. ",
+		"op1": "Stack",
+		"op2": "Translation Look aside Buffer ",
+		"op3": " Process Control Block",
+		"op4": "Program Control Block ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 9,
+		"ques": "Distributed OS works on the ________ principle. ",
+		"op1": "File Foundation ",
+		"op2": "Single system image",
+		"op3": " Multi system image ",
+		"op4": "Networking image ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 10,
+		"ques": "The problem of fragmentation arises in ________. ",
+		"op1": "Static storage allocation ",
+		"op2": "Stack allocation storage ",
+		"op3": "Stack allocation with dynamic binding",
+		"op4": "Heap allocation",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 11,
+		"ques": "Which file system does DOS typically use ? ",
+		"op1": "FAT16 ",
+		"op2": "FAT32 ",
+		"op3": "NTFS",
+		"op4": "WNFS",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 12,
+		"ques": "The time taken by the disk arm to locate the specific address of a sector for getting information is called __________.",
+		"op1": "Rotational Latency",
+		"op2": "Seek Time ",
+		"op3": "Search Time ",
+		"op4": "Response Time ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 13,
+		"ques": "Which file system does Windows 95 typically use ? ",
+		"op1": "FAT16",
+		"op2": "FAT32",
+		"op3": "NTFS",
+		"op4": "LMFS",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 14,
+		"ques": " Identify the odd thing in the services of operating system. ",
+		"op1": "Accounting",
+		"op2": "Protection",
+		"op3": "Error detection and correction ",
+		"op4": "Dead lock handling",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 15,
+		"ques": "Which of the following is not advantage of multiprogramming?",
+		"op1": "Increased throughput ",
+		"op2": "Shorter response time ",
+		"op3": "Decreased operating system overhead",
+		"op4": "Ability to assign priorities to jobs ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 16,
+		"ques": "In ______ OS, the response time is very critical.",
+		"op1": "Multitasking",
+		"op2": "Batch",
+		"op3": "Online",
+		"op4": "Real-time",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 17,
+		"ques": "Real time systems are ________.",
+		"op1": "Primarily used on mainframe computers ",
+		"op2": "Used for monitoring events as they occur ",
+		"op3": "Used for program development ",
+		"op4": "Used for real time interactive users ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 18,
+		"ques": "Which technique was introduced because a single job could not keep both the CPU and the I / O devices busy ?",
+		"op1": "Time-sharing",
+		"op2": "Spooling",
+		"op3": "Preemptive scheduling ",
+		"op4": "Multiprogramming ",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 19,
+		"ques": "Software is a program that directs the overall operation of the computer, facilitates its use and interacts with the user.What are the different types of this software ? ",
+		"op1": "Operating system",
+		"op2": "Language Compiler ",
+		"op3": "Utilities",
+		"op4": "All of the above",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 20,
+		"ques": "The primary job of the operating system of a computer is to ________. ",
+		"op1": "Command Resources ",
+		"op2": "Manage Resources ",
+		"op3": "Provide Utilities ",
+		"op4": "Be user friendly",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 21,
+		"ques": " Super computers typically employ _______.",
+		"op1": "Real time Operating system",
+		"op2": "Multiprocessors OS ",
+		"op3": "desktop OS",
+		"op4": "None of the above ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 22,
+		"ques": "UNIX was initially developed at",
+		"op1": "Bell Labs ",
+		"op2": "Nasa Labs ",
+		"op3": "Microsoft Labs ",
+		"op4": "Kaspersky Labs",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 23,
+		"ques": "application programming interfaces of the operating system is for ",
+		"op1": "windows",
+		"op2": "Unix",
+		"op3": "Linux",
+		"op4": "Solaris",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 24,
+		"ques": "Thread scheduling of the operating system programs is done by ",
+		"op1": "input",
+		"op2": "output",
+		"op3": "operating system ",
+		"op4": "memory",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 25,
+		"ques": "Run time support system is the system that is provided by",
+		"op1": "System call routines are mostly written in ",
+		"op2": "system programs",
+		"op3": "system calls interface ",
+		"op4": "processes",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 26,
+		"ques": "Getting device attributes of the computer system is ",
+		"op1": "process control ",
+		"op2": "file management ",
+		"op3": "device management ",
+		"op4": "information maintenance ",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 27,
+		"ques": "Environment for execution of programs of the operating system is provided by",
+		"op1": "inputs",
+		"op2": "outputs",
+		"op3": "operating system",
+		"op4": "memory",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 28,
+		"ques": "Multiprogramming of the computer system increases ",
+		"op1": "memory",
+		"op2": "storage",
+		"op3": "CPU utilization ",
+		"op4": "cost",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 29,
+		"ques": "Special purpose processors that computer system have are called ",
+		"op1": "high level components ",
+		"op2": "mid level components ",
+		"op3": " low level components ",
+		"op4": "both a and b ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 30,
+		"ques": "Application programming interfaces of the operating system provides ",
+		"op1": "creation",
+		"op2": "designing",
+		"op3": "deletion",
+		"op4": "portability",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 31,
+		"ques": "Aqua interface of the operating system programs was appeared with ",
+		"op1": "MAC OS Y ",
+		"op2": "MAC OS Z ",
+		"op3": "MAC OS X ",
+		"op4": "MAC OS D ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 32,
+		"ques": " I/O function allows to exchange data directly between an",
+		"op1": "Process States ",
+		"op2": "Registers",
+		"op3": "I/O module and the processor ",
+		"op4": " I/o devices ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 33,
+		"ques": "Example of open source operating system provided is ",
+		"op1": "Unix",
+		"op2": "Linux",
+		"op3": "windows",
+		"op4": "both a and b ",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 34,
+		"ques": "In implementation of Semaphores, for a single processor system, it is possible to inhibited ",
+		"op1": "Deadlock",
+		"op2": "Interrupts",
+		"op3": "Lock Step",
+		"op4": "None",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 35,
+		"ques": " If the process is running currently executing, it is in the running ",
+		"op1": "Mode",
+		"op2": "Process",
+		"op3": "State",
+		"op4": "Program",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 36,
+		"ques": " Main memory of the computer system is also called ",
+		"op1": "non volatile ",
+		"op2": "volatile",
+		"op3": "reserved",
+		"op4": "large",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 37,
+		"ques": "Controller of the computer system transfers data from device to ",
+		"op1": "buffers",
+		"op2": "cache",
+		"op3": "registers",
+		"op4": "indexes",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 38,
+		"ques": " Files and directories of graphical user interface of the operating system programs are known as ",
+		"op1": "commands",
+		"op2": "graphics",
+		"op3": "text",
+		"op4": "folders",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 39,
+		"ques": "When many users accesses mainframes then approach used is called ",
+		"op1": "resource allocation ",
+		"op2": "word processors ",
+		"op3": "dedicated resources ",
+		"op4": "interface",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 40,
+		"ques": "Accessing same data from storage of the computer system is provided by",
+		"op1": "serial clusters ",
+		"op2": "parallel clusters ",
+		"op3": "beowulf clusters ",
+		"op4": "both a and b ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 41,
+		"ques": "A processor ",
+		"op1": "is a device that performs a sequence of operations specified by instructions in memory ",
+		"op2": "is the device where information is stored ",
+		"op3": "is a sequence of instructions ",
+		"op4": "s typically characterized by interactive processing and time of the CPU’s time to allow quick response to each other ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 42,
+		"ques": "Assembler is ",
+		"op1": "a program that places programs into memory and prepares them for execution ",
+		"op2": "a program that automate the translation of assembly language into machine language ",
+		"op3": "a program that accepts a program written in a high level language and produces an object program ",
+		"op4": "is a program that appears to execute a source program if it were machine language ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 43,
+		"ques": "A loader is ",
+		"op1": "a program that places programs into memory and prepares them for execution ",
+		"op2": "a program that automate the translation of assembly language into machine language ",
+		"op3": "a program that accepts a program written in a high level language and produces an object program ",
+		"op4": "is a program that appears to execute a source program if it were machine language ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 44,
+		"ques": "In an absolute loading scheme, which loader function(s) is (are) accomplished by programmer ",
+		"op1": "Allocation",
+		"op2": "Linking",
+		"op3": "Both a and b",
+		"op4": "Reallocation",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 45,
+		"ques": "The primary job of the operating system of a computer is to ",
+		"op1": "command resources ",
+		"op2": "manage resources ",
+		"op3": "provide utilities ",
+		"op4": "be user friendly ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 46,
+		"ques": "The operating system of a computer serves as a software interface between the",
+		"op1": "hardware ",
+		"op2": "peripheral",
+		"op3": "memory",
+		"op4": "screen",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 47,
+		"ques": "The term “operating system” means",
+		"op1": "a set of programs which controls computer working ",
+		"op2": "the way a computer operator works ",
+		"op3": "conversion of high level language into machine code",
+		"op4": "the way a floppy disk drives operates",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 48,
+		"ques": "Multiprogramming was made possible by ",
+		"op1": "input/output units that operate independently of the cpu ",
+		"op2": "operating system ",
+		"op3": "both a and b ",
+		"op4": "None of the above ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 49,
+		"ques": "Which of the following is not a part of operating system? ",
+		"op1": "supervisor",
+		"op2": "performance monitor ",
+		"op3": "job-control program ",
+		"op4": "input/output control program ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 50,
+		"ques": "Thrashing",
+		"op1": "is a natural consequences of virtual memory system ",
+		"op2": "can always be avoided by swapping ",
+		"op3": "always occurs on large computers ",
+		"op4": " can be caused by poor paging algorithms ",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 51,
+		"ques": "Memory management is ",
+		"op1": "not used in modern operating system ",
+		"op2": "replaced with virtual memory on current system ",
+		"op3": "not used on multiprogramming systems ",
+		"op4": "critical for even the simplest operating system ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 52,
+		"ques": "Which is not true about the memory management? ",
+		"op1": "virtual memory is used in multi-user system",
+		"op2": "segmentation suffers from external fragmentation ",
+		"op3": "paging suffers from internal fragmentation ",
+		"op4": "segmented memory can be paged ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 53,
+		"ques": "In the multiprogramming system, a set of processes is deadlock if each process intheset is waiting for an event to occur that can be initialized only by another process in theset.Which of the following is not one of the four conditions that are necessary for deadlock to occur ? ",
+		"op1": "nonpreemption",
+		"op2": "process suspension",
+		"op3": "partial assigment of resources ",
+		"op4": "circular wait ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 54,
+		"ques": "In virtual memory systems, Dynamic address translation ",
+		"op1": " is the hardware necessary to implemented paging ",
+		"op2": "stores pages at a specifies location on disk ",
+		"op3": "is useless when swapping is used. ",
+		"op4": "is part of the operating system paging algorithm",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 55,
+		"ques": "Real time systems are ",
+		"op1": "primarily used on mainframe computers ",
+		"op2": "used for monitoring events as they occur ",
+		"op3": "used for program analysis ",
+		"op4": "used for real-time interactive",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 56,
+		"ques": "In UNIX the status of the process may he ?",
+		"op1": "running",
+		"op2": "orphan",
+		"op3": "sleeping",
+		"op4": "All of above",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 57,
+		"ques": "Which of the following processes has a PID I ? ",
+		"op1": "Kernel",
+		"op2": "UNIX",
+		"op3": "hilt",
+		"op4": "shell",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 58,
+		"ques": "World Wide Web is being standard by ….",
+		"op1": "Worldwide corporation ",
+		"op2": "W3C",
+		"op3": "World Wide Consortium ",
+		"op4": "World Wide Web Standard ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 59,
+		"ques": "A co-processo",
+		"op1": "Is relatively easy to support in software ",
+		"op2": "Causes all processor to function equally ",
+		"op3": "Works with any application ",
+		"op4": "Is quite common in modern computer ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 60,
+		"ques": "A Microsoft Windows is ….. a(n)",
+		"op1": "Operating system ",
+		"op2": "Graphic program ",
+		"op3": "Word Processing",
+		"op4": "Database program",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 61,
+		"ques": "Which of the following is program group? ",
+		"op1": "Accessories",
+		"op2": "Paint",
+		"op3": "Word",
+		"op4": "All of above ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 62,
+		"ques": "The ….. program compresses large files into a smaller file",
+		"op1": "WinZip",
+		"op2": "WinShrink",
+		"op3": "WinStyle",
+		"op4": "None of above",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 63,
+		"ques": "Which of the following is an example of a real time operating system?",
+		"op1": "Lynx",
+		"op2": "MS DOS ",
+		"op3": "Windows XP ",
+		"op4": "Process Control ",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 64,
+		"ques": "Which of the following operating system does not implement the multitasking truly? ",
+		"op1": "Windows 98 ",
+		"op2": "Windows NT ",
+		"op3": "Windows XP",
+		"op4": "MS DOS",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 65,
+		"ques": "Which of the following windows version support 64 bit processor? ",
+		"op1": "Windows 98 ",
+		"op2": "Windows 2000 ",
+		"op3": "Windows XP ",
+		"op4": "Windows 95 ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 66,
+		"ques": "Which of the following Operating System does not implement multitasking truly?",
+		"op1": "Windows 98 ",
+		"op2": "Windows NT ",
+		"op3": "Windows XP",
+		"op4": "MS DOS ",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 67,
+		"ques": "Which of the following operating system do you choose to implement a client server network ? ",
+		"op1": "MS DOS ",
+		"op2": "Windows",
+		"op3": "Windows 98 ",
+		"op4": " Windows 2000 ",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 68,
+		"ques": "Which of the following Operating systems is better for implementing a Client-Server network ",
+		"op1": "MS DOS ",
+		"op2": "Windows 95 ",
+		"op3": "Windows 98",
+		"op4": "Windows 2000",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 69,
+		"ques": "Which is the latest version of MS Windows? ",
+		"op1": "Windows 2007 ",
+		"op2": "Windows 8.1",
+		"op3": "Windows 2008 ",
+		"op4": "Windows 7 ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 70,
+		"ques": "Which operating system doesn’t support networking between computers?",
+		"op1": "Windows 3.1 ",
+		"op2": "Windows 95 ",
+		"op3": "Windows 2000 ",
+		"op4": "Windows NT",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 71,
+		"ques": "Which Operating System doesn’t support networking between computers?",
+		"op1": "Windows 3.1 ",
+		"op2": "Windows 95 ",
+		"op3": "Windows 2000 ",
+		"op4": "Windows NT ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 72,
+		"ques": "Which of the following does not support more than one program at a time? ",
+		"op1": "DOS",
+		"op2": "Linux",
+		"op3": "Windows",
+		"op4": "Unix",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 73,
+		"ques": "Which of the following is not an operating system? ",
+		"op1": "DOS",
+		"op2": "Linux",
+		"op3": "Windows",
+		"op4": "Oracle",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 74,
+		"ques": "Linux is a(n) … operating system ",
+		"op1": "Open source ",
+		"op2": "Microsoft",
+		"op3": "Windows",
+		"op4": "Mac",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 75,
+		"ques": "Which operating system can you give smallest file name? ",
+		"op1": "Ps/2",
+		"op2": "Dos",
+		"op3": "Windows",
+		"op4": "Windows NT ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 76,
+		"ques": "Which one is not operating system? ",
+		"op1": "P11",
+		"op2": "OS/2",
+		"op3": "Windows",
+		"op4": "Unix",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 77,
+		"ques": "Which of the following is not a multitasking operating system? ",
+		"op1": "Windows",
+		"op2": "Linux",
+		"op3": "Win NT",
+		"op4": "DOS",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 78,
+		"ques": "The operating system creates … from the physical computer",
+		"op1": "Virtual space",
+		"op2": "Virtual computer ",
+		"op3": "Virtual device ",
+		"op4": "None",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 79,
+		"ques": "Which command is used to see the version of operating system? ",
+		"op1": "Vol",
+		"op2": "Version",
+		"op3": "Ver",
+		"op4": "None of the above ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 80,
+		"ques": "Which of the following is system software? ",
+		"op1": "Operating system ",
+		"op2": "Compiler",
+		"op3": "Utilities",
+		"op4": "All of the above ",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 81,
+		"ques": "Which one of the following is not a multitasking operating system?",
+		"op1": "DOS",
+		"op2": "Windows",
+		"op3": "Unix",
+		"op4": "Linux",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 82,
+		"ques": "The most recent version of MAC OS is based on the … operating system",
+		"op1": "Windows",
+		"op2": "Linux",
+		"op3": "Unix",
+		"op4": "CMOS",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 83,
+		"ques": "The … operating system was initially created in the early 1970s at AT and T’s Bell Labs ",
+		"op1": "Linux",
+		"op2": "DOS",
+		"op3": "Unix",
+		"op4": "GNU",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 84,
+		"ques": "Which of the following is an essential file of a MS-DOS boot disk? ",
+		"op1": "COMMAND.COM ",
+		"op2": "START.COM ",
+		"op3": "TREE.COM ",
+		"op4": "VER.COM",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 85,
+		"ques": "The primary purpose of an operating system is:",
+		"op1": "To make the most efficient use of the computer hardware ",
+		"op2": "To allow people to use the computer, ",
+		"op3": "To keep systems programmers employed ",
+		"op4": "To make computers easier to use ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 86,
+		"ques": "Which of the following operating system reads and reacts in actual time? ",
+		"op1": "Quick Response System ",
+		"op2": "Real Time System ",
+		"op3": "Time Sharing System ",
+		"op4": "Batch Processing System",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 87,
+		"ques": "All of the following are TRUE regarding virtual memory EXCEPT ",
+		"op1": "Any amount of RAM can be allocated to virtual memory ",
+		"op2": "The setting for the amount of hard disk drive space to allocate virtual memory can be manually change ",
+		"op3": "This temporary storage is called the swap file or page file ",
+		"op4": "Virtual memory is the physical space o the hard drive ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 88,
+		"ques": "The essential difference between an operating system like Linux and one like Windows is that ",
+		"op1": "Windows can run with an Intel processor, whereas Linux cannot ",
+		"op2": "Linux is a proprietary whereas Windows is not ",
+		"op3": "There are multiple versions of Linux, but only one version of Windows",
+		"op4": "Any programmer can modify Linux code which is not permitted with Windows",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 89,
+		"ques": "The Basic Input Output System (BIOS) resides in",
+		"op1": "RAM",
+		"op2": "ROM",
+		"op3": "The CPU ",
+		"op4": "Memory Cache ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 90,
+		"ques": "An operating system version designed for use with a media center PC is Microsoft Windows XP ",
+		"op1": "Home edition ",
+		"op2": "Media center edition ",
+		"op3": "Tablet PC edition",
+		"op4": " None of above ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 91,
+		"ques": "An operating system version designed for use with a tablet PC is Microsoft Windows XP ",
+		"op1": "Home edition",
+		"op2": "Media center edition ",
+		"op3": "Tablet PC edition ",
+		"op4": "None of the above ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 92,
+		"ques": ". …. runs on a computer hardware and serves as a platform for other system to run on ",
+		"op1": "Operating system ",
+		"op2": "Application system ",
+		"op3": "System software ",
+		"op4": "All of above",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 93,
+		"ques": "Which runs on computer hardware and serve as platform for other software to run on ? ",
+		"op1": "Operating System ",
+		"op2": "Application Software ",
+		"op3": "System Software ",
+		"op4": "All",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 94,
+		"ques": " … is the program run on a computer when the computer boots up",
+		"op1": "System software ",
+		"op2": "Operating system ",
+		"op3": "System operations ",
+		"op4": "None",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 95,
+		"ques": "Which is the first program run on a computer when the computer boots up?",
+		"op1": "System software ",
+		"op2": "Operating system",
+		"op3": "System operations",
+		"op4": "None",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 96,
+		"ques": "The .....….contains commands associated with the My Computer window",
+		"op1": "Standard menu ",
+		"op2": "Start menu ",
+		"op3": "System menu ",
+		"op4": "None of the above ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 97,
+		"ques": "….…. is the layer of a computer system between the hardware and the user program ",
+		"op1": "Operating environment ",
+		"op2": "Operating system ",
+		"op3": "System environment ",
+		"op4": "None of these ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 98,
+		"ques": "Which is the layer of a computer system between the hardware and the user program ",
+		"op1": "Operating environment ",
+		"op2": "Operating system ",
+		"op3": "System environment ",
+		"op4": "None",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 99,
+		"ques": " When you start up the computer the boot up storage at which the BIOS versions manufacturer and data are displayed on the monitor is called ",
+		"op1": "Bootstrap",
+		"op2": "Power on self test (POST) ",
+		"op3": "System configuration ",
+		"op4": "Kernel loading ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 100,
+		"ques": "The operating system is the most common type of …. Software",
+		"op1": "Communication",
+		"op2": "Aplication",
+		"op3": "System",
+		"op4": "Word processing software",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 101,
+		"ques": "Which of the following is not essential to shut down your computer? ",
+		"op1": "Save all opened files",
+		"op2": "Close all running applications ",
+		"op3": "Switch off monitor ",
+		"op4": "Cut off the power supply",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 102,
+		"ques": "The command used to create logical drive for specific location of disk",
+		"op1": "Fdisk",
+		"op2": "Format",
+		"op3": "Subst",
+		"op4": "All of the above ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 103,
+		"ques": "You can move a window to a different position on your screen by dragging it by its………… ",
+		"op1": "Move handle ",
+		"op2": "Tail",
+		"op3": "Status bar ",
+		"op4": "Title bar ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 104,
+		"ques": "A bar that inform you the available options in your computer, opened applications, background running applications and can be used to switch between applications quickly is ",
+		"op1": "Menu bar ",
+		"op2": "Tool bar ",
+		"op3": "Status bar ",
+		"op4": "Task bar ",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 105,
+		"ques": "Which components appear in the initial windows start up display?",
+		"op1": "Dialog box ",
+		"op2": "Task bar ",
+		"op3": "Start menu",
+		"op4": "All of the above ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 106,
+		"ques": "Taskbar is used for ",
+		"op1": "Navigation program ",
+		"op2": "Switching between program ",
+		"op3": "Start a program ",
+		"op4": "All of above ",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 107,
+		"ques": "When a peripheral device needs immediate attention from the operating system, it generates a(n)",
+		"op1": "Interrupt",
+		"op2": "Spool",
+		"op3": "Stack",
+		"op4": "Page file ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 108,
+		"ques": "Underlined text, such as text and folder names is referred to as ",
+		"op1": "Hyperlink",
+		"op2": "Menu",
+		"op3": "Source drive",
+		"op4": "None of these ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 109,
+		"ques": "Which of the following is suitable after you install new drivers? ",
+		"op1": "Shut Down",
+		"op2": "Restart",
+		"op3": "Sleep",
+		"op4": "Hibernate",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 110,
+		"ques": "Windows displays various options to shutdown. Which is suitable at the end of day ? ",
+		"op1": "Shut Down",
+		"op2": "Restart",
+		"op3": "Sleep",
+		"op4": "Hibernate",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 111,
+		"ques": "UNIX OS was first developed by",
+		"op1": "Dennis Ritchie ",
+		"op2": "Bjarne Stroustrup ",
+		"op3": "Ken Thompson",
+		"op4": "Brian Kernighan ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 112,
+		"ques": "UNIX is written in ",
+		"op1": "C language ",
+		"op2": "Ada language ",
+		"op3": "Perl language ",
+		"op4": " Pascal language",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 113,
+		"ques": "Microkernel design imposes a uniform ",
+		"op1": "Process",
+		"op2": "Processor",
+		"op3": "Interface",
+		"op4": "System",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 114,
+		"ques": "Multiprogramming refers to ",
+		"op1": "Having several programs in Ram at the same time ",
+		"op2": "Multitasking ",
+		"op3": " Writing programs in multiple languages ",
+		"op4": "None of the above ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 115,
+		"ques": "Multiprocessing is…",
+		"op1": "Same as multitasking ",
+		"op2": "Same as multiprogramming ",
+		"op3": "Multiuser",
+		"op4": "Involves using more than one prosessor at the time ",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 116,
+		"ques": "Timesharing is the same as ",
+		"op1": "multitasking",
+		"op2": "multiprogramming",
+		"op3": "multiuser",
+		"op4": "I none of the previous",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 117,
+		"ques": "A RAID system is useful because ",
+		"op1": "it increases processor speed ",
+		"op2": "increases disk storage capacity ",
+		"op3": "increases disk storage capacity and availability ",
+		"op4": "increases OS efficiency",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 118,
+		"ques": "A UNIX device driver is __. ",
+		"op1": "structured into two halves called top half and bottom half ",
+		"op2": "three equal partitions",
+		"op3": "unstructured ",
+		"op4": "none of the above ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 119,
+		"ques": "What is the default filename of an executable File produced by gcc ? ",
+		"op1": "a.out",
+		"op2": "program , ",
+		"op3": "run.bat ",
+		"op4": " a.exe ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 120,
+		"ques": "System administration tasks must generally be performed by which username? ",
+		"op1": "admin",
+		"op2": "root",
+		"op3": "nobody",
+		"op4": "sysadm",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 121,
+		"ques": "In UNIX, block-oriented devices which transfer data in _. ",
+		"op1": "blocks",
+		"op2": "character by character ",
+		"op3": "byte by byte ",
+		"op4": "bit by bit ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 122,
+		"ques": "Inter process communication can be done through . ",
+		"op1": "mails",
+		"op2": "messages",
+		"op3": "system calls ",
+		"op4": "traps",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 123,
+		"ques": "Which of the following is not one of the 3 general components of the UNIX operating system ? ",
+		"op1": "The kernel",
+		"op2": "The shell ",
+		"op3": "The GUI ",
+		"op4": " The file system",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 124,
+		"ques": "\"bash\" is an example of a",
+		"op1": "kernel",
+		"op2": "shell",
+		"op3": "security system ",
+		"op4": "file manager ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 125,
+		"ques": "Which of the following is not a component of a user account ? ",
+		"op1": "Home directory",
+		"op2": "Password",
+		"op3": "Group ID ",
+		"op4": "Kernel",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 126,
+		"ques": "The name of the superuser is . ",
+		"op1": "master",
+		"op2": "supreme",
+		"op3": "root",
+		"op4": "president",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 127,
+		"ques": "The letters BSD represent . ",
+		"op1": "Berkeley School Design ",
+		"op2": "Boston System Design ",
+		"op3": "Berkeley Software Development ",
+		"op4": "Boise School Definition ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 128,
+		"ques": "Multiple UNIX commands can be put into a file to form a program. This is called a… ",
+		"op1": "pipe",
+		"op2": "Script",
+		"op3": "link",
+		"op4": "shell",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 129,
+		"ques": "To get to the on-line reference manual, you use this command __;. ",
+		"op1": "manual",
+		"op2": "online",
+		"op3": "man",
+		"op4": "none of the above ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 130,
+		"ques": "The letters \"bash\" stands for ____. ",
+		"op1": "born after shell ",
+		"op2": "bourne again shell ",
+		"op3": "berkeley admin shell ",
+		"op4": "none of the above ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 131,
+		"ques": "To invoke \"bash\" you type",
+		"op1": "bsh",
+		"op2": "sh",
+		"op3": "bash",
+		"op4": "either a or c ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 132,
+		"ques": "The standard output device for UNIX is ",
+		"op1": "the printer",
+		"op2": "the monitor",
+		"op3": "the keyboard",
+		"op4": "the mouse ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 133,
+		"ques": "T0 see what aliases are active, you type ",
+		"op1": "alias",
+		"op2": "alias-a ",
+		"op3": "alias·all",
+		"op4": "alias-active ",
+		"ans": 1,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 134,
+		"ques": "Select the incorrect statements",
+		"op1": "Shell scripts can accepts arguments. ",
+		"op2": "Shell scripts are interpreted",
+		"op3": "Shell is a programming language. ",
+		"op4": "Shell scripts are complied. ",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 135,
+		"ques": "UNIX was first installed in ____. ",
+		"op1": "IBM-360",
+		"op2": "PDP/11 ",
+		"op3": "PDP/7 ",
+		"op4": "CRAY ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 136,
+		"ques": "Which of the following data structure is not maintained by the kernel ? ",
+		"op1": "User file descriptor table ",
+		"op2": "File table ",
+		"op3": "I-node table ",
+		"op4": "None of the above ",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 137,
+		"ques": "The standard name for executable files produced by the C compiler is",
+		"op1": "cc",
+		"op2": "a.out ",
+		"op3": "gcc",
+		"op4": "stdin",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 138,
+		"ques": "Which of the following is TRUE for UNIX file system ? ",
+		"op1": "It is hierarchical structure. ",
+		"op2": "It provides protection to files. ",
+		"op3": "Ability to create and delete files, ",
+		"op4": "All of the above. ",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 139,
+		"ques": "System treats the data in a directory as a ",
+		"op1": "message stream l ",
+		"op2": "character stream ",
+		"op3": "byte stream",
+		"op4": "block stream ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 140,
+		"ques": "All the system call of UNIX returns on failure. ",
+		"op1": "0 ",
+		"op2": "-1 ",
+		"op3": "1 ",
+		"op4": "null",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 141,
+		"ques": "Moving process from main memory to disk is called _. ",
+		"op1": "scheduling",
+		"op2": "caching",
+		"op3": "swapping",
+		"op4": "spooling",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 142,
+		"ques": "Real time systems are …….",
+		"op1": "primarily used on mainframe computers",
+		"op2": "used for monitoring events as they occur ",
+		"op3": "used for program analysis ",
+		"op4": "used for real-time interactive ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 143,
+		"ques": "Paging is … ",
+		"op1": "virtual memory ",
+		"op2": "memory management scheme",
+		"op3": "allocation of memory ",
+		"op4": "deadlock prevention scheme ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 144,
+		"ques": "Which of the following is an operating system call? ",
+		"op1": "CREATE",
+		"op2": "LINK",
+		"op3": "SYSTEM",
+		"op4": "All of these",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 145,
+		"ques": "Paging is implemented in ……..",
+		"op1": "operating system ",
+		"op2": "hardware",
+		"op3": "software",
+		"op4": "all of above ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 146,
+		"ques": "In the multi-programming environment, the main memory consisting of number of process. ",
+		"op1": "Greater than 1000 ",
+		"op2": "Only one ",
+		"op3": "Greater than 50 ",
+		"op4": "More than one ",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 147,
+		"ques": "Which directory implementation is used in most operating system?",
+		"op1": "Single level directory structure ",
+		"op2": "Two level directory structure ",
+		"op3": "Tree directory structure ",
+		"op4": "Acyclic directory structure ",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 148,
+		"ques": "The process related to process control, the management, device management, information about system and communication that is requested by any higher level language can be performed by…… ",
+		"op1": "editors",
+		"op2": "compilers",
+		"op3": "system call",
+		"op4": "caching",
+		"ans": 3,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 149,
+		"ques": "Multiprocessing",
+		"op1": "make the operating system simpler ",
+		"op2": "allows multiple processes to run simultaneously ",
+		"op3": "is completely understood by all major computer vendors ",
+		"op4": "allows the same computer to have the multiple processors",
+		"ans": 4,
+		"image": "null",
+		"unit": 1
+	}, {
+		"num": 150,
+		"ques": "The hardware mechanism that enables a device to notify the CPU is called ",
+		"op1": "polling",
+		"op2": "interrupt",
+		"op3": "system call ",
+		"op4": "none of the above ",
+		"ans": 2,
+		"image": "null",
+		"unit": 1
+	}]
+}

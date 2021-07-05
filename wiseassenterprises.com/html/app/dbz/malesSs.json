@@ -1,0 +1,61 @@
+{
+	"links": [{
+		"name": "Android 16",
+		"url": "android16.json",
+		"pics" : 30
+	},{
+		"name": "Bardock",
+		"url": "bardock.json",
+		"pics" : 42
+	}, {
+		"name": "Cell",
+		"url": "cell.json",
+		"pics" : 31
+	}, {
+		"name": "Frieza",
+		"url": "frieza.json",
+		"pics" : 50
+	}, {
+		"name": "Gogeta",
+		"url": "gogeta.json",
+		"pics" : 52
+	},{
+		"name": "Gohan",
+		"url": "gohan.json",
+		"pics" : 50
+	},
+	 {
+		"name": "Goku",
+		"url": "goku.json",
+		"pics" : 51
+	},
+	{
+		"name": "Krillin",
+		"url": "krillin.json",
+		"pics" : 50
+	}, {
+		"name": "Piccolo",
+		"url": "piccolo.json",
+		"pics" : 51
+	}, {
+		"name": "Trunks",
+		"url": "trunks.json",
+		"pics" : 20
+	
+	},{
+		"name": "Vegeta",
+		"url": "vegeta.json",
+		"pics" : 60
+	
+	}
+	,{
+		"name": "Whis",
+		"url": "whis.json",
+		"pics" : 51
+	
+	}
+																																																																			
+		
+	
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"links": [{
+		"name": "Superheroes",
+		"url": "test.json",
+		"pics": 10
+	}
+	]
+}

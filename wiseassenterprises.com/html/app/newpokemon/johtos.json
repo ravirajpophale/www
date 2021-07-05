@@ -1,0 +1,12 @@
+{
+	"links": [{
+		"name": "Random Pokemon Art",
+		"url": "pokemon.json",
+		"pics": 40
+	},
+	{
+		"name": "Pikachu",
+		"url": "pikachu.json",
+		"pics": 30
+	}	]
+}

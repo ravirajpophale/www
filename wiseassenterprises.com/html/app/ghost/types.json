@@ -1,0 +1,23 @@
+{
+	"types": [{
+		"name": "Ghosts",
+		"url": "ghosts.json",
+		"num": 12
+	}, {
+		"name": "Haunted House",
+		"url": "hauntedhouse.json",
+		"num": 17
+	}, {
+		"name": "Serial Killer",
+		"url": "serialkiller.json",
+		"num": 17
+	}, {
+		"name": "Psychological",
+		"url": "psychological.json",
+		"num": 26
+	}, {
+		"name": "Mystery",
+		"url": "mystery.json",
+		"num": 10
+	}]
+}

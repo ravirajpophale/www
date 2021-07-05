@@ -1,0 +1,16 @@
+{
+	"links": [{
+		"name": "Hummer",
+		"url": "hummer.json",
+		"cars": 4
+	}, {
+		"name": "Lamborghini",
+		"url": "lamborghini.json",
+		"cars": 15
+	}, {
+		"name": "Bugatti",
+		"url": "bugatti.json",
+		"cars": 4
+	}]
+
+}

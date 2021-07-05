@@ -1,0 +1,45 @@
+{
+	"stuff": [{
+		"name": "Computer Engineering",
+		"mode": 1,
+		"subjects" : 14,
+		"questions" : 999,
+		"link": "comp.json"
+	}, {
+		"name": "Mech Engineering",
+		"mode": 1,
+		"subjects" : 17,
+		"questions" : 999,
+		"link": "mech.json"
+	}, {
+		"name": "Information Technology",
+		"mode": 1,
+		"subjects" : 18,
+		"questions" : 999,
+		"link": "it.json"
+	}, {
+		"name": "Chemical Engineering",
+		"mode": 1,
+		"subjects" : 12,
+		"questions" : 999,
+		"link": "chem.json"
+	}, {
+		"name": "Computer Graphics",
+		"mode": 2,
+		"subjects" : 999,
+		"questions" : 205,
+		"link": "cg.json"
+	}, {
+		"name": "Data Structures",
+		"mode": 2,
+		"subjects" : 999,
+		"questions" : 146,
+		"link": "ds.json"
+	}, {
+		"name": "Operating System",
+		"mode": 2,
+		"subjects" : 999,
+		"questions" : 178,
+		"link": "osa.json"
+	}]
+}

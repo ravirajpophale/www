@@ -1,0 +1,46 @@
+{
+	"links": [
+	{
+		"name": "Salman Khan",
+		"url": "salman.json",
+		"pics" : 100
+	},
+	{
+		"name": "Shah Rukh Khan",
+		"url": "shahrukh.json",
+		"pics" : 100
+	},
+	{
+		"name": "Aamir Khan",
+		"url": "aamir.json",
+		"pics" : 100
+	},
+	{
+		"name": "Akshay Kumar",
+		"url": "akshay.json",
+		"pics" : 100
+	},
+	{
+		"name": "Amitab Bachchan",
+		"url": "amitab.json",
+		"pics" : 50
+	},
+	{
+		"name": "Ranveer Singh",
+		"url": "raveer.json",
+		"pics" : 50
+	},
+	{
+		"name": "Ranbir Kapoor",
+		"url": "ranbir.json",
+		"pics" : 53
+	},
+	{
+		"name": "Ajay Devgan",
+		"url": "ajay.json",
+		"pics" : 50
+	}																
+	
+	
+	]
+}

@@ -1,0 +1,135 @@
+{
+	"links": [{
+		"name": "#4 Charmander",
+		"url": "charmander.json",
+		"pics": 25
+	}, {
+		"name": "#6 Charizard",
+		"url": "charizard.json",
+		"pics": 37
+	}, {
+		"name": "#7 Squirtle",
+		"url": "squirtle.json",
+		"pics": 29
+	}, {
+		"name": "#18 Pidgeot",
+		"url": "pidgeot.json",
+		"pics": 17
+	}, {
+		"name": "#25 Pikachu",
+		"url": "pikachu.json",
+		"pics": 31
+	}, {
+		"name": "#37 Vulpix",
+		"url": "vulpix.json",
+		"pics": 31
+	}, {
+		"name": "#130 Gyarados",
+		"url": "gyarados.json",
+		"pics": 24
+	}, {
+		"name": "#133 Eevee",
+		"url": "eevee.json",
+		"pics": 28
+	}, {
+		"name": "#134 Vaporeon",
+		"url": "vaporeon.json",
+		"pics": 20
+	}, {
+		"name": "#135 Vaporeon",
+		"url": "jolteon.json",
+		"pics": 32
+	}, {
+		"name": "#136 Flareon",
+		"url": "flareon.json",
+		"pics": 33
+	}, {
+		"name": "#144 Articuno",
+		"url": "articuno.json",
+		"pics": 18
+	}, {
+		"name": "#145 Zapdos",
+		"url": "zapdos.json",
+		"pics": 23
+	}, {
+		"name": "#146 Moltres",
+		"url": "moltres.json",
+		"pics": 25
+	}, {
+		"name": "#150 Mewtwo",
+		"url": "mewtwo.json",
+		"pics": 24
+	}, {
+		"name": "#151 Mew",
+		"url": "mew.json",
+		"pics": 20
+	}, {
+		"name": "#196 Espeon",
+		"url": "espeon.json",
+		"pics": 36
+	}, {
+		"name": "#197 Umbreon",
+		"url": "umbreon.json",
+		"pics": 36
+	}, {
+		"name": "#249 Lugia",
+		"url": "lugia.json",
+		"pics": 26
+	}, {
+		"name": "#250 Ho-Oh",
+		"url": "hooh.json",
+		"pics": 23
+	}, {
+		"name": "#470 Leafeon",
+		"url": "leafeon.json",
+		"pics": 27
+	}, {
+		"name": "#471 Glaceon",
+		"url": "glaceon.json",
+		"pics": 31
+	}, {
+		"name": "#700 Sylveon",
+		"url": "sylveon.json",
+		"pics": 29
+	}, {
+		"name": "#23 Suicune",
+		"url": "suicune.json",
+		"pics": 30
+	}, {
+		"name": "#11 Alakazam",
+		"url": "alakazam.json",
+		"pics": 28
+	}, {
+		"name": "#8 Dragonite",
+		"url": "dragonite.json",
+		"pics": 29
+	}, {
+		"name": "# Dragonair",
+		"url": "Dragonair.json",
+		"pics": 33
+	}, {
+		"name": "# Magmar",
+		"url": "Magmar.json",
+		"pics": 27
+	}, {
+		"name": "#10 Typhlosion",
+		"url": "typhlosion.json",
+		"pics": 27
+	}, {
+		"name": "# Rapidash",
+		"url": "rapidash.json",
+		"pics": 31
+	}, {
+		"name": "# Feraligatr",
+		"url": "sylveon.json",
+		"pics": 29
+	}, {
+		"name": "#17 Entei",
+		"url": "entei.json",
+		"pics": 30
+	}, {
+		"name": "# Raikou",
+		"url": "raikou.json",
+		"pics": 33
+	} ]
+}
